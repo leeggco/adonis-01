@@ -19,4 +19,4 @@ Route.on('/').render('welcome')
 
 Route.resource('posts', 'PostController')
 
-// test
+// test22
